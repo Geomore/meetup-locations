@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.566465,
+          39.280740
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "URS @ Natty Boh Tower",
+        "address": "3600 O'Donnell Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.592668,
+          39.282000
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Woody's Rum Bar",
+        "address": "821 S Broadway",
+        "date": "2013-04-17"
+      }
+    }
+  ]
+}
