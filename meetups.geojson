@@ -12,6 +12,7 @@
       },
       "properties": {
         "marker-symbol": "commercial",
+        "marker-color": "#33CC33"
         "name": "URS @ Natty Boh Tower",
         "address": "3600 O'Donnell Street"
       }
@@ -30,6 +31,83 @@
         "name": "Woody's Rum Bar",
         "address": "821 S Broadway",
         "date": "2013-04-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.643361,
+          39.332330
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Union Craft Brewery",
+        "address": "1700 Union Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.592548,
+          39.282100
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Slainte",
+        "address": "1700 Thames St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.612566,
+          39.277387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Blue Agave",
+        "address": "1032 Light St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.615484,
+          39.293445
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Mick O'Shea's",
+        "address": "328 N Charles St",
+        "date": "2013-07-18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.616123,
+          39.308893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Chesapeake",
+        "address": "1701 N Charles Street",
+        "date": "2013-08-13"
       }
     }
   ]
