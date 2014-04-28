@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "bbox": [-76.711, 39.248, -76.526, 39.373],
   "features": [
     {
       "type": "Feature",
