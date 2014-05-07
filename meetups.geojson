@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "bbox": [-76.711, 39.248, -76.526, 39.373],
   "features": [
     {
       "type": "Feature",
@@ -8,14 +7,15 @@
         "type": "Point",
         "coordinates": [
           -76.566465,
-          39.280740
+          39.28074
         ]
       },
       "properties": {
         "marker-symbol": "commercial",
-        "marker-color": "#33CC33",
+        "marker-color": "33CC33",
         "name": "URS @ Natty Boh Tower",
-        "address": "3600 O'Donnell Street"
+        "address": "3600 O'Donnell Street",
+        "date": ""
       }
     },
     {
@@ -24,14 +24,15 @@
         "type": "Point",
         "coordinates": [
           -76.592668,
-          39.282000
+          39.282
         ]
       },
       "properties": {
         "marker-symbol": "bar",
         "name": "Woody's Rum Bar",
         "address": "821 S Broadway",
-        "date": "2013-04-17"
+        "date": "2013-04-17",
+        "marker-color": "3399FF"
       }
     },
     {
@@ -40,13 +41,15 @@
         "type": "Point",
         "coordinates": [
           -76.643361,
-          39.332330
+          39.33233
         ]
       },
       "properties": {
         "marker-symbol": "bar",
         "name": "Union Craft Brewery",
-        "address": "1700 Union Ave"
+        "address": "1700 Union Ave",
+        "marker-color": "3399FF",
+        "date": "2014-01-09"
       }
     },
     {
@@ -55,13 +58,15 @@
         "type": "Point",
         "coordinates": [
           -76.592548,
-          39.282100
+          39.2821
         ]
       },
       "properties": {
         "marker-symbol": "bar",
         "name": "Slainte",
-        "address": "1700 Thames St"
+        "address": "1700 Thames St",
+        "marker-color": "3399FF",
+        "date": "2013-05-16"
       }
     },
     {
@@ -76,7 +81,9 @@
       "properties": {
         "marker-symbol": "bar",
         "name": "Blue Agave",
-        "address": "1032 Light St"
+        "address": "1032 Light St",
+        "marker-color": "3399FF",
+        "date": "2013-06-20"
       }
     },
     {
@@ -92,7 +99,8 @@
         "marker-symbol": "bar",
         "name": "Mick O'Shea's",
         "address": "328 N Charles St",
-        "date": "2013-07-18"
+        "date": "2013-07-18",
+        "marker-color": "3399FF"
       }
     },
     {
@@ -108,7 +116,93 @@
         "marker-symbol": "bar",
         "name": "The Chesapeake",
         "address": "1701 N Charles Street",
-        "date": "2013-08-13"
+        "date": "2013-08-13",
+        "marker-color": "3399FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Heavy Seas Alehouse",
+        "address": "1300 Bank St",
+        "date": "2014-03-20",
+        "marker-color": "3399FF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59898638725281,
+          39.28650759250841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "bar",
+        "marker-color": "3399FF",
+        "name": "Mama's on the Half Shell",
+        "address": "2901 O'Donnell St",
+        "date": "2013-09-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57527029514313,
+          39.27995335010176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joe Squared",
+        "address": "133 W North Ave",
+        "date": "2013-10-17",
+        "marker-color": "3399FF",
+        "marker-symbol": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61911904811859,
+          39.310711658248806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "bar",
+        "marker-color": "3399FF",
+        "name": "Tavern on the Square",
+        "address": "2903 O'Donnell St",
+        "date": "2013-11-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5750852227211,
+          39.27996580727339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "3399FF",
+        "marker-symbol": "restaurant",
+        "name": "Dooby's",
+        "address": "802 N Charles St",
+        "date": "2014-02-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6159862279892,
+          39.29787485234671
+        ]
       }
     }
   ]
